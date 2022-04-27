@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="crear cuenta en advantage" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-27T09:50:29" hostname="50HW019035" time="10.878">
+  <properties/>
+  <testcase name="realizar registro" classname="crear cuenta en advantage" time="10.878"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 101.0.4951.15 (0dcf182bd3881ac6567fb51e86a17ba341d19475-refs/branch-heads/4951@{#217}) on port 46340
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr 27, 2022 4:50:32 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

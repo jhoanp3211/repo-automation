@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•£”¯8™¯Ó†0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²ó¹Áşÿÿÿÿ8¢¯Ó†0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷´ôŸøÿÿÿÿ8¤¯Ó†0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8¤¯Ó†0
+7
+java:S1220""Move this file to a named package.8¤¯Ó†0
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÙØ¤Şıÿÿÿÿ8¤¯Ó†0

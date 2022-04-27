@@ -1,0 +1,21 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(’ÒÜ
+b
+java:S1659"GDeclare "secondName" and all following declarations on a separate line.(¿éÌèÿÿÿÿÿ
+Q
+java:S1854"";Remove this useless assignment to local variable "persona".(ğĞ
+b
+java:S1659 "GDeclare "secondName" and all following declarations on a separate line.(óıºñùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ˆªüßúÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ÛÕ—¿øÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¨…ø
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ÙÅßúÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(”¦Ûí
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(Ñğ‡Æúÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’ÒÜ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Îä‡Çüÿÿÿÿ
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¼Ø×Á

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="crear cuenta en advantage" skipped="0" tests="2" time="3.46" timestamp="2022-04-26 06:20:57"><testcase name="verificar mensaje de Cart"><error message="invalid argument&#10;  (Session info: chrome=101.0.4951.41)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.15 (0dcf182bd388..., userDataDir: C:\Users\2072669\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: fbd53df8a3a0c6f6348c815e6c560feb&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.InvalidArgumentException">invalid argument
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.15 (0dcf182bd388..., userDataDir: C:\Users\2072669\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fbd53df8a3a0c6f6348c815e6c560feb
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown</error><system-err>invalid argument
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.15 (0dcf182bd388..., userDataDir: C:\Users\2072669\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fbd53df8a3a0c6f6348c815e6c560feb
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown&#13;
+stepsdefinitions.Base.abrirPagina(Base.java:27)&#13;
+stepsdefinitions.formularioRegistroStepsDefinitions.elUsuarioEstaEnLaPaginaPrincipal(formularioRegistroStepsDefinitions.java:59)&#13;
+✽.el usuario esta en la pagina principal(src/test/resources/features/formulario_registro.feature:5)&#13;
+</system-err></testcase><testcase name="realizar compra de multiples productos, sin crear cuenta"><error message="invalid argument&#10;  (Session info: chrome=101.0.4951.41)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.15 (0dcf182bd388..., userDataDir: C:\Users\2072669\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63122}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: a350d7439e4908faa1710f295b72ae69&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.InvalidArgumentException">invalid argument
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.15 (0dcf182bd388..., userDataDir: C:\Users\2072669\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63122}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a350d7439e4908faa1710f295b72ae69
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown</error><system-err>invalid argument
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.15 (0dcf182bd388..., userDataDir: C:\Users\2072669\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63122}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a350d7439e4908faa1710f295b72ae69
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '50HW019035', ip: '192.168.20.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown&#13;
+stepsdefinitions.Base.abrirPagina(Base.java:27)&#13;
+stepsdefinitions.formularioRegistroStepsDefinitions.elUsuarioEstaEnLaPaginaPrincipal(formularioRegistroStepsDefinitions.java:59)&#13;
+✽.el usuario esta en la pagina principal(src/test/resources/features/formulario_registro.feature:12)&#13;
+</system-err></testcase></testsuite>
